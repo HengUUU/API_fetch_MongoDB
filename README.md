@@ -43,3 +43,12 @@ Contact
 =======
 
 The Astronomer CLI is maintained with love by the Astronomer team. To report a bug or suggest a change, reach out to our support.
+
+
+Instruction:
+===========
+USING docker containers
+initial astro project
+create mongodb databse(for storing data which collected from http-api)
+Make connection between mongodb container with airflow astro-cli (project)
+setup dag for the flow (Extract->Transform->Load)
